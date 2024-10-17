@@ -1,0 +1,86 @@
+#wash {
+	font-family: "Source Code Pro";
+	margin-left: 1em;
+	margin-bottom: 0em;
+	margin-top: 0.7em;
+	font-size: 5em;
+	font-weight: 300;
+	color: #595959;
+}
+#watch {
+	font-family: "Source Code Pro";
+	margin-left: 2em;
+	margin-top: 0em;
+	font-size: 5em;
+	font-weight: 300;
+	color: #595959;
+	margin-bottom: 0.8em;
+}
+#content {
+	width: 50%;
+	height: 100%;
+}
+#sign {
+	text-align: center;
+	font-family: "Source Code Pro";
+	font-weight: 300;
+	color: #595959;
+	font-size: 2.5em;
+	margin-top: 0em;
+}
+
+#user {
+	text-align: center;
+
+
+}
+#pass {
+	text-align: center;
+}
+form {
+	text-align: center;
+}
+input {
+	font-family: "Source Code Pro";
+	font-weight: 300;
+	margin:0.7em;
+	font-size: 1.8em;
+	height:2.3em;
+	border-radius: 0.6em;
+}
+
+.buttons {
+	text-align: center;
+	margin-top: 2em;
+}
+
+.submit {
+	font-family: "Source Code Pro";
+	font-weight: 300;
+	font-size: 3em;
+	border-radius: 0.1em;
+	padding-left: 0.5em;
+	padding-right: 0.5em;
+	letter-spacing: 0.1em;
+	background-color: #ffab40;
+	color:white;
+}
+
+.submit:hover {
+	font-family: "Source Code Pro";
+	font-weight: 300;
+	font-size: 3em;
+	border-radius: 0.1em;
+	padding-left: 0.5em;
+	padding-right: 0.5em;
+	letter-spacing: 0.1em;
+	background-color: #e89935;
+	color:white;
+}
+
+#or {
+	font-family: "Source Code Pro";
+	font-weight: 300;
+	font-size: 2em;
+	color: #595959;
+}
